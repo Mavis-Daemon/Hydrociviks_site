@@ -1,8 +1,8 @@
-# My personal website
-Visit the website on https://mavis-daemon.github.io/
+# Hydrocivik website
+Visit the website on https://mavis-daemon.github.io/hydrocivik
 
 ## Description
-This is my master website code that (will) contain my websites. The website was coded with HTML, CSS, and JavaScript. I hosted my image, audio, and video on Cloudinary.
+This is a portfolio website for my music and youtube channel.
 
 The project started at the beginning of March 2026.
 
